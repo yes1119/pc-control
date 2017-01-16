@@ -1,0 +1,1295 @@
+C:\Users\62\Desktop\Pc_Client\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\62\Desktop\Pc_Client\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\62\Desktop\Pc_Client\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\62\Desktop\Pc_Client\Pc_Client\obj\Debug\App.g.cs
+C:\Users\62\Desktop\Pc_Client\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\62\Desktop\Pc_Client\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\62\Desktop\Pc_Client\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\62\Desktop\Pc_Client\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\62\Desktop\Pc_Client\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\62\Desktop\Pc_Client\Pc_Client - 복사본\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\62\Desktop\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client\Pc_Client - 복사본\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client\Pc_Client - 복사본\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\62\Desktop\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\62\Desktop\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\62\Desktop\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\App.g.cs
+C:\Users\62\Desktop\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\62\Desktop\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\62\Desktop\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\62\Desktop\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\App.g.cs
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본 - 복사본\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본 - 복사본\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본 - 복사본\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본 - 복사본\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본 - 복사본\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본 - 복사본\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본 - 복사본\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본 - 복사본\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본 - 복사본\Pc_Client\obj\Debug\App.g.cs
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본 - 복사본\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본 - 복사본\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본 - 복사본\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\62\Desktop\Pc_clent\Pc_Client\Pc_Client - 복사본 - 복사본\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\WB\Desktop\Pc_Client - Ver_01\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\WB\Desktop\Pc_Client - Ver_01\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\Pc_Client - Ver_01\Pc_Client\obj\Debug\Pc_Client.pdb
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150120\22시48분\Pc_Client - Ver_01\Pc_Client\bin\Debug\Pc_Client.exe.config
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150120\22시48분\Pc_Client - Ver_01\Pc_Client\obj\Debug\Pc_Client.exe
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150120\22시48분\Pc_Client - Ver_01\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Ver_01\Pc_Client - Ver_01\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\62\Desktop\Ver_01\Pc_Client - Ver_01\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Ver_01\Pc_Client - Ver_01\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_01\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\62\Desktop\Pc_Client - Ver_01\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client - Ver_01\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_01\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client - Ver_01\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_01\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\62\Desktop\Pc_Client - Ver_01\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\62\Desktop\Pc_Client - Ver_01\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\62\Desktop\Pc_Client - Ver_01\Pc_Client\obj\Debug\App.g.cs
+C:\Users\62\Desktop\Pc_Client - Ver_01\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\62\Desktop\Pc_Client - Ver_01\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\62\Desktop\Pc_Client - Ver_01\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\62\Desktop\Pc_Client - Ver_01\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\WB\Desktop\Pc_Client - Ver_02\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\WB\Desktop\Pc_Client - Ver_02\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\Pc_Client - Ver_02\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\Pc_Client - Ver_02\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\Pc_Client - Ver_02\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\Pc_Client - Ver_02\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\WB\Desktop\Pc_Client - Ver_02\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\WB\Desktop\Pc_Client - Ver_02\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver_02\Pc_Client\obj\Debug\App.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver_02\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\WB\Desktop\Pc_Client - Ver_02\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\WB\Desktop\Pc_Client - Ver_02\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\WB\Desktop\Pc_Client - Ver_02\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150121\저녁\Pc_Client - Ver_03\Pc_Client\bin\Debug\Pc_Client.exe.config
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150121\저녁\Pc_Client - Ver_03\Pc_Client\obj\Debug\Pc_Client.exe
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150121\저녁\Pc_Client - Ver_03\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_03\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\62\Desktop\Pc_Client - Ver_03\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client - Ver_03\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_03\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client - Ver_03\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_03\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\62\Desktop\Pc_Client - Ver_03\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\62\Desktop\Pc_Client - Ver_03\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\62\Desktop\Pc_Client - Ver_03\Pc_Client\obj\Debug\App.g.cs
+C:\Users\62\Desktop\Pc_Client - Ver_03\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\62\Desktop\Pc_Client - Ver_03\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\62\Desktop\Pc_Client - Ver_03\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\62\Desktop\Pc_Client - Ver_03\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\62\Desktop\Pc_Client - Ver_03 - 복사본\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\62\Desktop\Pc_Client - Ver_03 - 복사본\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client - Ver_03 - 복사본\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_03 - 복사본\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client - Ver_03 - 복사본\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_03 - 복사본\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\62\Desktop\Pc_Client - Ver_03 - 복사본\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\62\Desktop\Pc_Client - Ver_03 - 복사본\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\62\Desktop\Pc_Client - Ver_03 - 복사본\Pc_Client\obj\Debug\App.g.cs
+C:\Users\62\Desktop\Pc_Client - Ver_03 - 복사본\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\62\Desktop\Pc_Client - Ver_03 - 복사본\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\62\Desktop\Pc_Client - Ver_03 - 복사본\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\62\Desktop\Pc_Client - Ver_03 - 복사본\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\62\Desktop\Pc_Client - Ver_04\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\62\Desktop\Pc_Client - Ver_04\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client - Ver_04\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_04\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client - Ver_04\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_04\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\62\Desktop\Pc_Client - Ver_04\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\62\Desktop\Pc_Client - Ver_04\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\62\Desktop\Pc_Client - Ver_04\Pc_Client\obj\Debug\App.g.cs
+C:\Users\62\Desktop\Pc_Client - Ver_04\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\62\Desktop\Pc_Client - Ver_04\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\62\Desktop\Pc_Client - Ver_04\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\62\Desktop\Pc_Client - Ver_04\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\62\Desktop\Pc_Client - Ver_04 - 복사본\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\62\Desktop\Pc_Client - Ver_04 - 복사본\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client - Ver_04 - 복사본\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_04 - 복사본\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client - Ver_04 - 복사본\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_04 - 복사본\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\62\Desktop\Pc_Client - Ver_04 - 복사본\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\62\Desktop\Pc_Client - Ver_04 - 복사본\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\62\Desktop\Pc_Client - Ver_04 - 복사본\Pc_Client\obj\Debug\App.g.cs
+C:\Users\62\Desktop\Pc_Client - Ver_04 - 복사본\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\62\Desktop\Pc_Client - Ver_04 - 복사본\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\62\Desktop\Pc_Client - Ver_04 - 복사본\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\62\Desktop\Pc_Client - Ver_04 - 복사본\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\WB\Desktop\Pc_Client - Ver_05\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\WB\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\Pc_Client - Ver_05\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\Pc_Client - Ver_05\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\WB\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\WB\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\App.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\WB\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\WB\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\WB\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\62\Desktop\Floor_Server_Ver_05\Pc_Client - Ver_05\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\62\Desktop\Floor_Server_Ver_05\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Floor_Server_Ver_05\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Floor_Server_Ver_05\Pc_Client - Ver_05\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Floor_Server_Ver_05\Pc_Client - Ver_05\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Floor_Server_Ver_05\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\62\Desktop\Floor_Server_Ver_05\Pc_Client - Ver_05\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\62\Desktop\Floor_Server_Ver_05\Pc_Client - Ver_05\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\62\Desktop\Floor_Server_Ver_05\Pc_Client - Ver_05\Pc_Client\obj\Debug\App.g.cs
+C:\Users\62\Desktop\Floor_Server_Ver_05\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\62\Desktop\Floor_Server_Ver_05\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\62\Desktop\Floor_Server_Ver_05\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\62\Desktop\Floor_Server_Ver_05\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\62\Desktop\Pc_Client - Ver_05\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\62\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_05\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client - Ver_05\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\62\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\62\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\62\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\App.g.cs
+C:\Users\62\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\62\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\62\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\62\Desktop\Pc_Client - Ver_05\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\62\Desktop\Pc_Client - Ver_07\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\62\Desktop\Pc_Client - Ver_07\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client - Ver_07\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\62\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Window1.baml
+C:\Users\62\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\62\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\62\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\App.g.cs
+C:\Users\62\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\62\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\62\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\62\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\62\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\62\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\62\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\C언어\Desktop\Pc_Client - Ver_07\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\C언어\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\C언어\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\IT\Desktop\Pc_Client - Ver_07\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\IT\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\IT\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\IT\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Window1.baml
+C:\Users\IT\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\IT\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\IT\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\IT\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\IT\Desktop\Pc_Client - Ver_07\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\Pc_Client - Ver_07\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\IT\Desktop\Pc_Client - Ver_07\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Window1.baml
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\App.g.cs
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Window1.baml
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\IT\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\obj\Debug\Window1.baml
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\obj\Debug\App.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-4\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-5\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-5\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-5\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-5\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-5\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-5\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-5\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-5\Pc_Client\obj\Debug\Window1.baml
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-5\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-5\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-5\Pc_Client\obj\Debug\App.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-5\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-5\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-5\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-5\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150129\Pc_Client - Ver_07.01-6\Pc_Client\bin\Debug\Pc_Client.exe.config
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150129\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Pc_Client.exe
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150129\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Pc_Client.pdb
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150129\Pc_Client - Ver_07.01-6\Pc_Client\bin\Debug\Pc_Client.exe
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150129\Pc_Client - Ver_07.01-6\Pc_Client\bin\Debug\Pc_Client.pdb
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150129\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150129\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\MainWindow.baml
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150129\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Window1.baml
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150129\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\MainWindow.g.cs
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150129\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Window1.g.cs
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150129\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\App.g.cs
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150129\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150129\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Pc_Client.g.resources
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150129\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150129\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-6\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Window1.baml
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\App.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-6\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-6\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-6\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-7\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-7\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-7\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-7\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-7\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-7\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-7\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-7\Pc_Client\obj\Debug\Window1.baml
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-7\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-7\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-7\Pc_Client\obj\Debug\App.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-7\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-7\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-7\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-7\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-8\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-8\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-8\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-8\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-8\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-8\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-8\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-8\Pc_Client\obj\Debug\Window1.baml
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-8\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-8\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-8\Pc_Client\obj\Debug\App.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-8\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-8\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-8\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-8\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Window1.baml
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\App.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\teacher\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Window1.baml
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\App.g.cs
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\woosong\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\WB\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\WB\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\WB\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\WB\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Window1.baml
+C:\Users\WB\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\App.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\WB\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\WB\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\WB\Desktop\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150204\오전\조수현\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Pc_Client.exe.config
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150204\오전\조수현\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.exe
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150204\오전\조수현\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\테스트시 사용한파일\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\테스트시 사용한파일\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\테스트시 사용한파일\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\테스트시 사용한파일\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\테스트시 사용한파일\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Window1.baml
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\App.g.cs
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver_07.01-9\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\Window1.baml
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\App.g.cs
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\WB\Desktop\0209최영우\Pc_Client - Ver_07.01-0209\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver00\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver00\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver00\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver00\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver00\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\obj\Debug\Window1.baml
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\obj\Debug\App.g.cs
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver01\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver02\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver02\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver02\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver02\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\0209최영우\Pc_Client - Ver02\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver02\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver02\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver02\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver02\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver02\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver04\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver04\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver04\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver04\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver04\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver05\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver05\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver05\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver05\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver05\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\obj\Debug\Window1.baml
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\obj\Debug\App.g.cs
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+D:\Pc_Client - Ver06\Pc_Client\bin\Debug\Pc_Client.exe.config
+D:\Pc_Client - Ver06\Pc_Client\obj\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+D:\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client.exe
+D:\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver06\Pc_Client\bin\Debug\Pc_Client.exe
+D:\Pc_Client - Ver06\Pc_Client\bin\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver06\Pc_Client\bin\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+D:\Pc_Client - Ver06\Pc_Client\obj\Debug\MainWindow.baml
+D:\Pc_Client - Ver06\Pc_Client\obj\Debug\Window1.baml
+D:\Pc_Client - Ver06\Pc_Client\obj\Debug\MainWindow.g.cs
+D:\Pc_Client - Ver06\Pc_Client\obj\Debug\Window1.g.cs
+D:\Pc_Client - Ver06\Pc_Client\obj\Debug\App.g.cs
+D:\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+D:\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client.g.resources
+D:\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+D:\Pc_Client - Ver06\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+D:\Pc_Client - Ver07\Pc_Client\bin\Debug\Pc_Client.exe.config
+D:\Pc_Client - Ver07\Pc_Client\obj\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver07\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+D:\Pc_Client - Ver07\Pc_Client\obj\Debug\Pc_Client.exe
+D:\Pc_Client - Ver07\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver07\Pc_Client\bin\Debug\Pc_Client.exe
+D:\Pc_Client - Ver07\Pc_Client\bin\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver07\Pc_Client\bin\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver07\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+D:\Pc_Client - Ver07\Pc_Client\obj\Debug\MainWindow.baml
+D:\Pc_Client - Ver07\Pc_Client\obj\Debug\Window1.baml
+D:\Pc_Client - Ver07\Pc_Client\obj\Debug\MainWindow.g.cs
+D:\Pc_Client - Ver07\Pc_Client\obj\Debug\Window1.g.cs
+D:\Pc_Client - Ver07\Pc_Client\obj\Debug\App.g.cs
+D:\Pc_Client - Ver07\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+D:\Pc_Client - Ver07\Pc_Client\obj\Debug\Pc_Client.g.resources
+D:\Pc_Client - Ver07\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+D:\Pc_Client - Ver07\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\obj\Debug\Window1.baml
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\obj\Debug\App.g.cs
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\teacher\Desktop\0209최영우- Ver01\Pc_Client - Ver08\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+D:\Pc_Client - Ver09\Pc_Client\bin\Debug\Pc_Client.exe.config
+D:\Pc_Client - Ver09\Pc_Client\obj\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+D:\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.exe
+D:\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver09\Pc_Client\bin\Debug\Pc_Client.exe
+D:\Pc_Client - Ver09\Pc_Client\bin\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver09\Pc_Client\bin\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+D:\Pc_Client - Ver09\Pc_Client\obj\Debug\MainWindow.baml
+D:\Pc_Client - Ver09\Pc_Client\obj\Debug\Window1.baml
+D:\Pc_Client - Ver09\Pc_Client\obj\Debug\MainWindow.g.cs
+D:\Pc_Client - Ver09\Pc_Client\obj\Debug\Window1.g.cs
+D:\Pc_Client - Ver09\Pc_Client\obj\Debug\App.g.cs
+D:\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+D:\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.g.resources
+D:\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+D:\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150210\저녁\Pc_Client - Ver09\Pc_Client\bin\Debug\Pc_Client.exe.config
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150210\저녁\Pc_Client - Ver09\Pc_Client\obj\Debug\Interop.Shell32.dll
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150210\저녁\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150210\저녁\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.exe
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150210\저녁\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\0209최영우- Ver02\Pc_Client - Ver09\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\0209최영우- Ver02\Pc_Client - Ver09\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\0209최영우- Ver02\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\0209최영우- Ver02\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\0209최영우- Ver02\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver09\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\Pc_Client - Ver09\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver09\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver10\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\Pc_Client - Ver10\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\Pc_Client - Ver10\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver10\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver10\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-1\Pc_Client\bin\Debug\Pc_Client.exe.config
+D:\Pc_Client - Ver10-1\Pc_Client\obj\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-1\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+D:\Pc_Client - Ver10-1\Pc_Client\obj\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-1\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-1\Pc_Client\bin\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-1\Pc_Client\bin\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-1\Pc_Client\bin\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-1\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+D:\Pc_Client - Ver10-1\Pc_Client\obj\Debug\MainWindow.baml
+D:\Pc_Client - Ver10-1\Pc_Client\obj\Debug\Window1.baml
+D:\Pc_Client - Ver10-1\Pc_Client\obj\Debug\MainWindow.g.cs
+D:\Pc_Client - Ver10-1\Pc_Client\obj\Debug\Window1.g.cs
+D:\Pc_Client - Ver10-1\Pc_Client\obj\Debug\App.g.cs
+D:\Pc_Client - Ver10-1\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+D:\Pc_Client - Ver10-1\Pc_Client\obj\Debug\Pc_Client.g.resources
+D:\Pc_Client - Ver10-1\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+D:\Pc_Client - Ver10-1\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+D:\Pc_Client - Ver10-2\Pc_Client\bin\Debug\Pc_Client.exe.config
+D:\Pc_Client - Ver10-2\Pc_Client\obj\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-2\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+D:\Pc_Client - Ver10-2\Pc_Client\obj\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-2\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-3\Pc_Client\bin\Debug\Pc_Client.exe.config
+D:\Pc_Client - Ver10-3\Pc_Client\obj\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-3\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+D:\Pc_Client - Ver10-3\Pc_Client\obj\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-3\Pc_Client\obj\Debug\Pc_Client.pdb
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150211\저녁\최영우\Pc_Client - Ver10-3\Pc_Client\bin\Debug\Pc_Client.exe.config
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150211\저녁\최영우\Pc_Client - Ver10-3\Pc_Client\obj\Debug\Interop.Shell32.dll
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150211\저녁\최영우\Pc_Client - Ver10-3\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150211\저녁\최영우\Pc_Client - Ver10-3\Pc_Client\obj\Debug\Pc_Client.exe
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150211\저녁\최영우\Pc_Client - Ver10-3\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver10-3\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\Pc_Client - Ver10-3\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\Pc_Client - Ver10-3\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver10-3\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver10-3\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-4\Pc_Client\bin\Debug\Pc_Client.exe.config
+D:\Pc_Client - Ver10-4\Pc_Client\obj\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-4\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+D:\Pc_Client - Ver10-4\Pc_Client\obj\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-4\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-4\Pc_Client\bin\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-4\Pc_Client\bin\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-4\Pc_Client\bin\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-4\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+D:\Pc_Client - Ver10-4\Pc_Client\obj\Debug\MainWindow.baml
+D:\Pc_Client - Ver10-4\Pc_Client\obj\Debug\Window1.baml
+D:\Pc_Client - Ver10-4\Pc_Client\obj\Debug\MainWindow.g.cs
+D:\Pc_Client - Ver10-4\Pc_Client\obj\Debug\Window1.g.cs
+D:\Pc_Client - Ver10-4\Pc_Client\obj\Debug\App.g.cs
+D:\Pc_Client - Ver10-4\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+D:\Pc_Client - Ver10-4\Pc_Client\obj\Debug\Pc_Client.g.resources
+D:\Pc_Client - Ver10-4\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+D:\Pc_Client - Ver10-4\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150212\Pc_Client - Ver10-4\Pc_Client\bin\Debug\Pc_Client.exe.config
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150212\Pc_Client - Ver10-4\Pc_Client\obj\Debug\Interop.Shell32.dll
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150212\Pc_Client - Ver10-4\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150212\Pc_Client - Ver10-4\Pc_Client\obj\Debug\Pc_Client.exe
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150212\Pc_Client - Ver10-4\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver10-5\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\Pc_Client - Ver10-5\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\Pc_Client - Ver10-5\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver10-5\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver10-5\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver10-6\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\Pc_Client - Ver10-6\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\Pc_Client - Ver10-6\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver10-6\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver10-6\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-7\Pc_Client\bin\Debug\Pc_Client.exe.config
+D:\Pc_Client - Ver10-7\Pc_Client\obj\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-7\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+D:\Pc_Client - Ver10-7\Pc_Client\obj\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-7\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-7\Pc_Client\bin\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-7\Pc_Client\bin\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-7\Pc_Client\bin\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-7\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+D:\Pc_Client - Ver10-7\Pc_Client\obj\Debug\MainWindow.baml
+D:\Pc_Client - Ver10-7\Pc_Client\obj\Debug\Window1.baml
+D:\Pc_Client - Ver10-7\Pc_Client\obj\Debug\MainWindow.g.cs
+D:\Pc_Client - Ver10-7\Pc_Client\obj\Debug\Window1.g.cs
+D:\Pc_Client - Ver10-7\Pc_Client\obj\Debug\App.g.cs
+D:\Pc_Client - Ver10-7\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+D:\Pc_Client - Ver10-7\Pc_Client\obj\Debug\Pc_Client.g.resources
+D:\Pc_Client - Ver10-7\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+D:\Pc_Client - Ver10-7\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\teacher\Desktop\Pc_Client - Ver10-7\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\Pc_Client - Ver10-7\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\Pc_Client - Ver10-7\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver10-7\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver10-7\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-8\Pc_Client\bin\Debug\Pc_Client.exe.config
+D:\Pc_Client - Ver10-8\Pc_Client\obj\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-8\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+D:\Pc_Client - Ver10-8\Pc_Client\obj\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-8\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-8\Pc_Client\bin\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-8\Pc_Client\bin\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-8\Pc_Client\bin\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-8\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+D:\Pc_Client - Ver10-8\Pc_Client\obj\Debug\MainWindow.baml
+D:\Pc_Client - Ver10-8\Pc_Client\obj\Debug\Window1.baml
+D:\Pc_Client - Ver10-8\Pc_Client\obj\Debug\MainWindow.g.cs
+D:\Pc_Client - Ver10-8\Pc_Client\obj\Debug\Window1.g.cs
+D:\Pc_Client - Ver10-8\Pc_Client\obj\Debug\App.g.cs
+D:\Pc_Client - Ver10-8\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+D:\Pc_Client - Ver10-8\Pc_Client\obj\Debug\Pc_Client.g.resources
+D:\Pc_Client - Ver10-8\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+D:\Pc_Client - Ver10-8\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\teacher\Desktop\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150213\구현\Pc_Client - Ver10-8_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150213\구현\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150213\구현\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150213\구현\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\Pc_Client.exe
+\\61.81.99.99\고급20기\00_대동단결\프로젝트 구현\20150213\구현\Pc_Client - Ver10-8_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-9_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+D:\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+D:\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-9_통합\Pc_Client\bin\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-9_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-9_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+D:\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\MainWindow.baml
+D:\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\Window1.baml
+D:\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+D:\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\Window1.g.cs
+D:\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\App.g.cs
+D:\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+D:\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+D:\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+D:\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\C언어\Desktop\Pc_Client - Ver10-9_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\C언어\Desktop\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\C언어\Desktop\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\C언어\Desktop\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\C언어\Desktop\Pc_Client - Ver10-9_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\WB\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\IT\Desktop\Pc_Client - Ver10-10_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\IT\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\WB\Desktop\Pc_Client - Ver10-11_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\WB\Desktop\Pc_Client - Ver10-12_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\qwe.WB-PC\Desktop\Pc_Client - Ver10-13_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-14_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+D:\Pc_Client - Ver10-14_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+D:\Pc_Client - Ver10-14_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-14_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+D:\Pc_Client - Ver10-14_통합\Pc_Client\obj\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-14_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-14_통합\Pc_Client\bin\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-14_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-14_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-14_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+D:\Pc_Client - Ver10-14_통합\Pc_Client\obj\Debug\MainWindow.baml
+D:\Pc_Client - Ver10-14_통합\Pc_Client\obj\Debug\Window1.baml
+D:\Pc_Client - Ver10-14_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+D:\Pc_Client - Ver10-14_통합\Pc_Client\obj\Debug\Window1.g.cs
+D:\Pc_Client - Ver10-14_통합\Pc_Client\obj\Debug\App.g.cs
+D:\Pc_Client - Ver10-14_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+D:\Pc_Client - Ver10-14_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+D:\Pc_Client - Ver10-14_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+D:\Pc_Client - Ver10-14_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+D:\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+D:\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+D:\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+D:\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe
+D:\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+D:\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+D:\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+D:\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+D:\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+D:\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+D:\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+D:\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+D:\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+D:\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+D:\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+D:\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots\7조_PC제어\4. 프로젝트 소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+F:\Dots\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+F:\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+F:\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+F:\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+F:\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+F:\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\user\Desktop\Dots\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\C언어\Desktop\ㅌㅎㅁㄷ\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\user\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\WB11112\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\user\Documents\카카오톡 받은 파일\Dots_프로젝트2 (2)\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Documents\카카오톡 받은 파일\Dots_프로젝트2 (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Documents\카카오톡 받은 파일\Dots_프로젝트2 (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Documents\카카오톡 받은 파일\Dots_프로젝트2 (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Documents\카카오톡 받은 파일\Dots_프로젝트2 (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Documents\카카오톡 받은 파일\Dots_프로젝트2 (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Dots_프로젝트4\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\WB11112\Desktop\프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\user\Desktop\Dots_프로젝트11\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Dots_프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots_프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots_프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots_프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots_프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots_프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트2\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트2\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트2\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트2\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트2\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트2\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\WB11112\Desktop\프로젝트13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Dots 프로젝트 3\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots 프로젝트 3\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots 프로젝트 3\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트 3\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots 프로젝트 3\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트 3\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트_5\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_5\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots 프로젝트_5\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트_5\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_5\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트_5\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트_6 (2)\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_6 (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots 프로젝트_6 (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트_6 (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_6 (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트_6 (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\user\Desktop\Dots 프로젝트_7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\C언어\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Dots 프로젝트_13\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots 프로젝트_13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트_13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트_13\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트 (2)\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots 프로젝트 (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots 프로젝트 (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트 (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots 프로젝트 (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트 (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\user\Desktop\Dots 프로젝트\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\user\Documents\카카오톡 받은 파일\Dots 프로젝트 (4) (2)\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Documents\카카오톡 받은 파일\Dots 프로젝트 (4) (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Documents\카카오톡 받은 파일\Dots 프로젝트 (4) (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Documents\카카오톡 받은 파일\Dots 프로젝트 (4) (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Documents\카카오톡 받은 파일\Dots 프로젝트 (4) (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Documents\카카오톡 받은 파일\Dots 프로젝트 (4) (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트 (4) (2)\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots 프로젝트 (4) (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots 프로젝트 (4) (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트 (4) (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots 프로젝트 (4) (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트 (4) (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트6\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots 프로젝트6\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots 프로젝트6\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트6\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots 프로젝트6\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트6\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트6 (2) (2)\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots 프로젝트6 (2) (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots 프로젝트6 (2) (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트6 (2) (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots 프로젝트6 (2) (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트6 (2) (2)\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트7\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots 프로젝트7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots 프로젝트7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots 프로젝트7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트7\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트8\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots 프로젝트8\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots 프로젝트8\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트8\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots 프로젝트8\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트8\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\창근\Documents\카카오톡 받은 파일\Dots 프로젝트2\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\창근\Documents\카카오톡 받은 파일\Dots 프로젝트2\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\창근\Documents\카카오톡 받은 파일\Dots 프로젝트2\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\창근\Documents\카카오톡 받은 파일\Dots 프로젝트2\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\창근\Documents\카카오톡 받은 파일\Dots 프로젝트2\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\창근\Documents\카카오톡 받은 파일\Dots 프로젝트2\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\user\Desktop\Dots 프로젝트1\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.pdb
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Interop.Shell32.dll
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.baml
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.g.resources
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Dots 프로젝트0229\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Dots\Dots\소스\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\HP\Desktop\Dots\Dots\소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\HP\Desktop\Dots\Dots\소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\HP\Desktop\Dots\Dots\소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\Dots\Dots\소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\HP\Desktop\Dots\Dots\소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
+C:\Users\user\Desktop\Dots\Dots\소스\Pc_Client - Ver10-15_통합\Pc_Client\bin\Debug\Pc_Client.exe.config
+C:\Users\user\Desktop\Dots\Dots\소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\user\Desktop\Dots\Dots\소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Interop.Shell32.dll
+C:\Users\user\Desktop\Dots\Dots\소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Dots\Dots\소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.exe
+C:\Users\user\Desktop\Dots\Dots\소스\Pc_Client - Ver10-15_통합\Pc_Client\obj\Debug\Pc_Client.pdb
