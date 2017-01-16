@@ -1,0 +1,252 @@
+C:\Users\user\Desktop\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\모뎀\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\모뎀\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\모뎀\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\모뎀\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\모뎀\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\모뎀\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots_프로젝트\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots_프로젝트\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots_프로젝트\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots_프로젝트\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots_프로젝트\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots_프로젝트\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots_프로젝트2\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots_프로젝트2\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots_프로젝트2\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots_프로젝트2\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots_프로젝트2\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots_프로젝트2\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트2 (2)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트2 (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트2 (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트2 (2)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트2 (2)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트2 (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\카카오톡 받은 파일\Dots_프로젝트3\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Documents\카카오톡 받은 파일\Dots_프로젝트3\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Documents\카카오톡 받은 파일\Dots_프로젝트3\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots_프로젝트4\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots_프로젝트4\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots_프로젝트4\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots_프로젝트4\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots_프로젝트4\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots_프로젝트4\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트5\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트5\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트5\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트5\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트5\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots\4. 프로젝트 소스\Dots_프로젝트5\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots_프로젝트5\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots_프로젝트5\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots_프로젝트5\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots_프로젝트5\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots_프로젝트5\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots_프로젝트5\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots_프로젝트6\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots_프로젝트6\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots_프로젝트6\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots_프로젝트6\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots_프로젝트6\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots_프로젝트6\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots_프로젝트9\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots_프로젝트9\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots_프로젝트9\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots_프로젝트11\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots_프로젝트11\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots_프로젝트11\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots_프로젝트11\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots_프로젝트11\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots_프로젝트11\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Floor_Server이거고쳐\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Floor_Server이거고쳐\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Floor_Server이거고쳐\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Floor_Server이거고쳐\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Floor_Server이거고쳐\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Floor_Server이거고쳐\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트 3\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트 3\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트 3\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트 3\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트 3\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트 3\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_4\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_4\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_4\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_4\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_4\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_4\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_5\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_5\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_5\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_5\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_5\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_5\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_6\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_6\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_6\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_6\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_6\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_6\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_6 (2)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_6 (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_6 (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_7\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_7\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_7\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_7\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_7\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_7\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_7 (3)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_8\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_8\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_8\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_8\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_8\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_8\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_9\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_9\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_9\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_9\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_9\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_9\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_10\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_10\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_10\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_10\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_10\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_10\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_12\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_12\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_12\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_12\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_12\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_12\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트_12 (2)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_12 (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_12 (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_13\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트_13\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_13\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_13\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트_13\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트_13\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트 (4)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트 (4)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트 (4)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트 (4)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트 (4)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트 (4)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트 (4) (2)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트 (4) (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트 (4) (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트 (4) (2)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트 (4) (2)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트 (4) (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트5\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트5\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트5\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트5\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트5\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트5\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트6\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트6\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트6\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트6\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트6\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트6\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\카카오톡 받은 파일\Dots 프로젝트6\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Documents\카카오톡 받은 파일\Dots 프로젝트6\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Documents\카카오톡 받은 파일\Dots 프로젝트6\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트6 (2)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트6 (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트6 (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트6 (2)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트6 (2)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트6 (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트6 (2) (2)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트6 (2) (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트6 (2) (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트6 (2) (2)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트6 (2) (2)\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트6 (2) (2)\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트7\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트7\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트7\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트7\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트7\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트7\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트8\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트8\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트8\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트8\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트8\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트8\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트9\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트9\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트9\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트9\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트9\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트9\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트10\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트10\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트10\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트10\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트10\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트10\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트1\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트1\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트1\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트2\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트2\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트2\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트2\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트2\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트2\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\창근\Documents\카카오톡 받은 파일\Dots 프로젝트2\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\창근\Documents\카카오톡 받은 파일\Dots 프로젝트2\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\창근\Documents\카카오톡 받은 파일\Dots 프로젝트2\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트 cck\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트 cck\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트 cck\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트 cck\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트 cck\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트 cck\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트1\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트1\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트1\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dots 프로젝트0229\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots 프로젝트0229\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트0229\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트0229\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots 프로젝트0229\Floor_Server\Floor_Server\bin\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots 프로젝트0229\Floor_Server\Floor_Server\obj\Debug\Floor_Server.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Dots\Dots\소스\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\HP\Desktop\Dots\Dots\소스\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\HP\Desktop\Dots\Dots\소스\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
+C:\Users\user\Desktop\Dots\Dots\소스\Floor_Server\Floor_Server\bin\Debug\Floor_Server.exe.config
+C:\Users\user\Desktop\Dots\Dots\소스\Floor_Server\Floor_Server\obj\Debug\Floor_Server.exe
+C:\Users\user\Desktop\Dots\Dots\소스\Floor_Server\Floor_Server\obj\Debug\Floor_Server.pdb
