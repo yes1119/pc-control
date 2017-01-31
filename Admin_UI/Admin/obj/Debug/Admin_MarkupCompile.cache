@@ -1,0 +1,20 @@
+﻿Admin
+
+
+exe
+C#
+.cs
+C:\Users\user\Desktop\Dots 프로젝트0229\Admin_UI\Admin\obj\Debug\
+Admin
+none
+false
+DEBUG;TRACE
+C:\Users\user\Desktop\Dots 프로젝트0229\Admin_UI\Admin\App.xaml
+32-656932287
+
+26-1903254150
+15-1531384190
+ButtonStyles.xaml;ComboBoxStyles.xaml;DataGridStyles.xaml;Dialog_Get\AddFloor.xaml;Dialog_Get\AddPC.xaml;Dialog_Get\AddRoom.xaml;Dialog_Get\DeviceStatus.xaml;Dialog_Get\LogInfo.xaml;Dialog_Get\PcTimer.xaml;Dialog_Get\PcTimerDel.xaml;Dialog_Get\PcTimerSelectDel.xaml;Dialog_Get\RemoteControl.xaml;Dialog_Get\Software.xaml;Dialog_Get\WindowCreate.xaml;GroupBoxStyles.xaml;ListBoxStyles.xaml;MainWindow.xaml;MenuStyles.xaml;MetroWindowResources.xaml;Resources.xaml;ScrollBarStyles.xaml;Styles.xaml;TabControlStyles.xaml;TextBoxStyles.xaml;UserControls\computer.xaml;UserControls\DeviceChoice.xaml;UserControls\Floor_Control.xaml;UserControls\main_Control.xaml;UserControls\Room_Control.xaml;UserControls\Window1.xaml;UserControls\WindowAccount.xaml;WindowStyles.xaml;
+
+False
+
