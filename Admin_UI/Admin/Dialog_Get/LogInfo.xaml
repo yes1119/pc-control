@@ -1,0 +1,82 @@
+﻿<Controls:MetroWindow x:Class="Admin.Dialog_Get.LogInfo"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      Title="Log"         
+                      ResizeMode="NoResize" 
+                      WindowStyle="None"  
+                      WindowStartupLocation="CenterScreen" 
+                      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"           
+                      xmlns:System="clr-namespace:System;assembly=mscorlib"
+                      Height="600" Width="800" ShowMaxRestoreButton="False" TitleForeground="#999988">
+    <Grid>
+        <TabControl>
+            <TabItem Name="tab_setting" HorizontalAlignment="Left" Width="85" IsSelected="True">
+                <UserControl>
+                    <ListView Name="lvw1" HorizontalAlignment="Left" VerticalAlignment="Top"  ItemsSource="{Binding}">
+
+                        <ListView.ItemContainerStyle>
+                            <Style TargetType="ListViewItem">
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            </Style>
+                        </ListView.ItemContainerStyle>
+
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="IP" Width="140" DisplayMemberBinding="{Binding PC_IP}" ></GridViewColumn>
+                                <GridViewColumn Header="층 이름" DisplayMemberBinding="{Binding LOG_NAME}" Width="140"></GridViewColumn>
+                                <GridViewColumn Header="사용 시간" Width="170" DisplayMemberBinding="{Binding LOG_DETECTION_DAY}" ></GridViewColumn>
+                                <GridViewColumn Header="최근 시작 시간" Width="170" DisplayMemberBinding="{Binding LOG_LOG}" ></GridViewColumn>
+                                <GridViewColumn Header="최근 종료 시간" Width="170" DisplayMemberBinding="{Binding LOG_DETECTION_TIME}" ></GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </UserControl>
+            </TabItem>
+            <TabItem Name="tab_monitoring" HorizontalAlignment="Left" Width="130" IsSelected="False">
+                <UserControl>
+                    <ListView Name="lvw2" HorizontalAlignment="Left" VerticalAlignment="Top"  ItemsSource="{Binding}">
+
+                        <ListView.ItemContainerStyle>
+                            <Style TargetType="ListViewItem">
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            </Style>
+                        </ListView.ItemContainerStyle>
+
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="IP" Width="105" DisplayMemberBinding="{Binding PC_IP}" ></GridViewColumn>
+                                <GridViewColumn Header="소프트웨어" DisplayMemberBinding="{Binding LOG_NAME}" Width="185"></GridViewColumn>
+                                <GridViewColumn Header="사용시간" Width="165" DisplayMemberBinding="{Binding LOG_DETECTION_DAY}" ></GridViewColumn>
+                                <GridViewColumn Header="최근 실행 날짜" Width="165" DisplayMemberBinding="{Binding LOG_LOG}" ></GridViewColumn>
+                                <GridViewColumn Header="최근 실행시간" Width="165" DisplayMemberBinding="{Binding LOG_DETECTION_TIME}" ></GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </UserControl>
+            </TabItem>
+            <TabItem  Name="tab_control" HorizontalAlignment="Left" Width="118" IsSelected="False">
+                <UserControl>
+                    <ListView Name="lvw3" HorizontalAlignment="Left" VerticalAlignment="Top"  ItemsSource="{Binding}">
+
+                        <ListView.ItemContainerStyle>
+                            <Style TargetType="ListViewItem">
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            </Style>
+                        </ListView.ItemContainerStyle>
+
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="타입" Width="120" DisplayMemberBinding="{Binding LOG_TYPE}"></GridViewColumn>
+                                <GridViewColumn Header="IP" Width="100" DisplayMemberBinding="{Binding PC_IP}" ></GridViewColumn>
+                                <GridViewColumn Header="LOG_NAME" DisplayMemberBinding="{Binding LOG_NAME}" Width="140"></GridViewColumn>
+                                <GridViewColumn Header="LOG" Width="180" DisplayMemberBinding="{Binding LOG_LOG}" ></GridViewColumn>
+                                <GridViewColumn Header="날짜" Width="130" DisplayMemberBinding="{Binding LOG_DETECTION_DAY}" ></GridViewColumn>
+                                <GridViewColumn Header="시간" Width="120" DisplayMemberBinding="{Binding LOG_DETECTION_TIME}" ></GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </UserControl>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Controls:MetroWindow>

@@ -1,0 +1,117 @@
+﻿<Controls:MetroWindow x:Class="Admin.Dialog_Get.PcTimerSelectDel"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                     xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"           
+                      xmlns:System="clr-namespace:System;assembly=mscorlib"
+                      ResizeMode="NoResize" 
+                      WindowStyle="None"  
+                      WindowStartupLocation="CenterScreen" 
+                      ShowMaxRestoreButton="False" TitleForeground="#999988"
+                      Title="Software"
+                      Height="498"
+                      Width="458">
+    <Grid Margin="0,0,-15,-28">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="0*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="500*"/>
+            <ColumnDefinition Width="16*"/>
+        </Grid.ColumnDefinitions>
+        <TabControl Grid.ColumnSpan="3" Margin="0,0,10,0">
+
+            <TabItem Name="tab_Setting" Header="On" HorizontalAlignment="Right" Width="70" IsSelected="True">
+                <Canvas>
+                    <ListView Name="lvw1" HorizontalAlignment="Center" VerticalAlignment="Top"  ItemsSource="{Binding}" Width="443" Height="342" SelectionChanged="lvw1_SelectionChanged" Canvas.Left="9" Canvas.Top="10" FontWeight="Bold">
+                        <ListView.Resources>
+                            <DataTemplate x:Key="Templ">
+                                <TextBlock HorizontalAlignment="Center" Text="{Binding}"/>
+                            </DataTemplate>
+                        </ListView.Resources>
+                        <ListView.ItemContainerStyle>
+                            <Style TargetType="ListViewItem">
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            </Style>
+                        </ListView.ItemContainerStyle>
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn  HeaderTemplate="{StaticResource Templ}" Header="번호" Width="80" DisplayMemberBinding="{Binding idx}"/>
+                                <GridViewColumn HeaderTemplate="{StaticResource Templ}" Header="날짜/요일" Width="120" DisplayMemberBinding="{Binding date_days}"/>
+                                <GridViewColumn HeaderTemplate="{StaticResource Templ}" Header="오전/오후" Width="100" DisplayMemberBinding="{Binding am_pm}"/>
+                                <GridViewColumn HeaderTemplate="{StaticResource Templ}" Header="시간" Width="116" DisplayMemberBinding="{Binding time}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <Button Content="삭제" Canvas.Left="371" Canvas.Top="368" Width="73" Height="50" Click="Button_Click" />
+                    <Label Content="번호 " Foreground="White" Canvas.Left="14" Canvas.Top="365" Width="39"/>
+                    <TextBox x:Name="alarm_on_idx" Height="23" TextWrapping="Wrap" Canvas.Left="58" Canvas.Top="368" Width="96"/>
+                    <Label Content="날짜/요일 " Foreground="White" Canvas.Left="170" Canvas.Top="365"/>
+                    <TextBox x:Name="alarm_on_datedays" Height="23" TextWrapping="Wrap" Canvas.Left="237" Canvas.Top="368" Width="117"/>
+                    <Label Content="오전/오후 " Foreground="White" Canvas.Left="171" Canvas.Top="393" RenderTransformOrigin="0.5,0.5">
+                        <Label.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform AngleX="2.045"/>
+                                <RotateTransform/>
+                                <TranslateTransform X="-0.464"/>
+                            </TransformGroup>
+                        </Label.RenderTransform>
+                    </Label>
+                    <TextBox x:Name="alarm_on_ampm" Height="23" TextWrapping="Wrap" Canvas.Left="237" Canvas.Top="396" Width="117"/>
+                    <Label Content="시간 " Foreground="White" Canvas.Left="15" Canvas.Top="392" RenderTransformOrigin="0.5,0.577"/>
+                    <TextBox x:Name="alarm_on_time" Height="22" TextWrapping="Wrap" Canvas.Left="58" Canvas.Top="396" Width="96"/>
+
+                </Canvas>
+            </TabItem>
+
+
+            <TabItem Name="often" Header="Off" HorizontalAlignment="Right" Width="70" IsSelected="True">
+                <Canvas>
+                    <ListView Name="lvw2" HorizontalAlignment="Center" VerticalAlignment="Top"  ItemsSource="{Binding}" Width="443" Height="342" SelectionChanged="lvw2_SelectionChanged" Canvas.Left="9" Canvas.Top="10" FontWeight="Bold">
+                        <ListView.Resources>
+                            <DataTemplate x:Key="Temp2">
+                                <TextBlock HorizontalAlignment="Center" Text="{Binding}"/>
+                            </DataTemplate>
+                        </ListView.Resources>
+                        <ListView.ItemContainerStyle>
+                            <Style TargetType="ListViewItem">
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            </Style>
+                        </ListView.ItemContainerStyle>
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn  HeaderTemplate="{StaticResource Temp2}" Header="번호" Width="80" DisplayMemberBinding="{Binding idx}"/>
+                                <GridViewColumn HeaderTemplate="{StaticResource Temp2}" Header="날짜/요일" Width="120" DisplayMemberBinding="{Binding date_days}"/>
+                                <GridViewColumn HeaderTemplate="{StaticResource Temp2}" Header="오전/오후" Width="100" DisplayMemberBinding="{Binding am_pm}"/>
+                                <GridViewColumn HeaderTemplate="{StaticResource Temp2}" Header="시간" Width="116" DisplayMemberBinding="{Binding time}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <Button Content="삭제" Canvas.Left="371" Canvas.Top="368" Width="73" Height="50" Click="Button1_Click" />
+                    <Label Content="번호 " Foreground="White" Canvas.Left="14" Canvas.Top="365" Width="39"/>
+                    <TextBox x:Name="alarm_off_idx" Height="23" TextWrapping="Wrap" Canvas.Left="58" Canvas.Top="368" Width="96"/>
+                    <Label Content="날짜/요일 " Foreground="White" Canvas.Left="170" Canvas.Top="365"/>
+                    <TextBox x:Name="alarm_off_datedays" Height="23" TextWrapping="Wrap" Canvas.Left="237" Canvas.Top="368" Width="117"/>
+                    <Label Content="오전/오후 " Foreground="White" Canvas.Left="171" Canvas.Top="393" RenderTransformOrigin="0.5,0.5">
+                        <Label.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform AngleX="2.045"/>
+                                <RotateTransform/>
+                                <TranslateTransform X="-0.464"/>
+                            </TransformGroup>
+                        </Label.RenderTransform>
+                    </Label>
+                    <TextBox x:Name="alarm_off_ampm" Height="23" TextWrapping="Wrap" Canvas.Left="237" Canvas.Top="396" Width="117"/>
+                    <Label Content="시간 " Foreground="White" Canvas.Left="15" Canvas.Top="392" RenderTransformOrigin="0.5,0.577"/>
+                    <TextBox x:Name="alarm_off_time" Height="22" TextWrapping="Wrap" Canvas.Left="58" Canvas.Top="396" Width="96"/>
+
+                </Canvas>
+            </TabItem>
+
+
+        </TabControl>
+    </Grid>
+</Controls:MetroWindow>

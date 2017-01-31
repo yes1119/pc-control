@@ -1,0 +1,59 @@
+﻿<Controls:MetroWindow x:Class="Admin.Dialog_Get.PcTimer"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"           
+                      xmlns:System="clr-namespace:System;assembly=mscorlib"
+                      ResizeMode="NoResize" 
+                      WindowStyle="None"  
+                      WindowStartupLocation="CenterScreen"
+                      Title="Pc Timer"
+                      Height="400"
+                      Width="300" 
+                      ShowMaxRestoreButton="False" TitleForeground="#999988">
+    <Grid>
+
+        <GroupBox Header="날짜별 알람" HorizontalAlignment="Left" VerticalAlignment="Top" Height="118" Margin="10,10,0,0" Width="280" RenderTransformOrigin="0.496,0.405">
+            <Grid>
+                <TextBlock HorizontalAlignment="Left" Margin="20,20,0,0" TextWrapping="Wrap" Text="날짜" VerticalAlignment="Top" Foreground="White"/>
+                <DatePicker HorizontalAlignment="Left" Margin="88,16,0,0" VerticalAlignment="Top" Width="173" SelectedDateChanged="datepicker_SelectedDateChanged"/>
+                <TextBlock HorizontalAlignment="Left" Margin="20,52,0,0" TextWrapping="Wrap" Text="시간" VerticalAlignment="Top" Foreground="White"/>
+
+                <RadioButton x:Name="morning1" Content="오전" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="54,56,0,0" Foreground="White" IsChecked="{Binding Path=오전, Mode=OneWay}" Checked="morning1_Checked" />
+                <RadioButton x:Name="afternoon1" Content="오후" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,56,0,0" Foreground="White" IsChecked="{Binding Path=오후}" Checked="afternoon1_Checked"/>
+
+
+                <TextBox Name="hour1" Text="" HorizontalAlignment="Left" Height="23" Margin="157,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="30"/>
+                <TextBox Name="minute1" Text="" HorizontalAlignment="Left" Height="23" Margin="213,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="30"/>
+                <TextBlock Text="시" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="191,52,0,0" Foreground="White"/>
+                <TextBlock Text="분" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="248,52,0,0" Foreground="White"/>
+                <TextBlock Text="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="217,75,0,0" Foreground="White"/>
+            </Grid>
+        </GroupBox>
+
+        <GroupBox Header="요일별 알람" HorizontalAlignment="Left" VerticalAlignment="Top" Height="156" Margin="10,128,0,0" Width="280" RenderTransformOrigin="0.496,0.405">
+            <Grid>
+                <TextBlock HorizontalAlignment="Left" Margin="20,20,0,0" TextWrapping="Wrap" Text="요일" VerticalAlignment="Top" Foreground="White"/>
+                <CheckBox x:Name="check1" Content="월" HorizontalAlignment="Left" Margin="82,14,0,0" VerticalAlignment="Top" Foreground="White" Checked="checkbox_Checked" />
+                <CheckBox x:Name="check2" Content="화" HorizontalAlignment="Left" Margin="122,14,0,0" VerticalAlignment="Top" Foreground="White" Checked="checkbox_Checked" />
+                <CheckBox x:Name="check3" Content="수" HorizontalAlignment="Left" Margin="162,14,0,0" VerticalAlignment="Top" Foreground="White" Checked="checkbox_Checked" />
+                <CheckBox x:Name="check4" Content="목" HorizontalAlignment="Left" Margin="202,14,0,0" VerticalAlignment="Top" Foreground="White" Checked="checkbox_Checked" />
+                <CheckBox x:Name="check5" Content="금" HorizontalAlignment="Left" Margin="102,34,0,0" VerticalAlignment="Top" Foreground="White" Checked="checkbox_Checked" />
+                <CheckBox x:Name="check6" Content="토" HorizontalAlignment="Left" Margin="142,34,0,0" VerticalAlignment="Top" Foreground="White" Checked="checkbox_Checked" />
+                <CheckBox x:Name="check7" Content="일" HorizontalAlignment="Left" Margin="182,34,0,0" VerticalAlignment="Top" Foreground="White" Checked="checkbox_Checked" />
+
+                <RadioButton x:Name="morning2" Content="오전" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="54,73,0,0" Foreground="White" IsChecked="{Binding Path=오전}" Checked="morning2_Checked"/>
+                <RadioButton x:Name="afternoon2" Content="오후" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,73,0,0" Foreground="White" Checked="afternoon2_Checked" />
+
+                <TextBlock HorizontalAlignment="Left" Margin="20,68,0,0" TextWrapping="Wrap" Text="시간" VerticalAlignment="Top" Foreground="White"/>
+                <TextBox Name="hour2" Text="" HorizontalAlignment="Left" Height="23" Margin="157,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="30"/>
+                <TextBox Name="minute2" Text="" HorizontalAlignment="Left" Height="23" Margin="213,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="30"/>
+                <TextBlock Text="시" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="191,68,0,0" Foreground="White"/>
+                <TextBlock Text="분" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="248,68,0,0" Foreground="White"/>
+                <TextBlock Text="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="217,90,0,0" Foreground="White"/>
+            </Grid>
+        </GroupBox>
+
+        <Button Content="알람 설정" HorizontalAlignment="Left" Margin="107,278,0,0" VerticalAlignment="Top" Width="96" Height="64" Click="Button_Click"/>
+
+    </Grid>
+</Controls:MetroWindow>

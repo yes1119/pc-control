@@ -1,0 +1,17 @@
+﻿<Controls:MetroWindow x:Class="Admin.Dialog_Get.RemoteControl"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"           
+                      xmlns:System="clr-namespace:System;assembly=mscorlib"
+                      ResizeMode="NoResize" 
+                      WindowStyle="None"  
+                      WindowStartupLocation="CenterScreen" 
+                      ShowMaxRestoreButton="False" TitleForeground="#999988"
+                      Title="RemoteControl"
+                      Height="840"
+                      Width="1100">
+    <Grid>
+        
+
+    </Grid>
+</Controls:MetroWindow>

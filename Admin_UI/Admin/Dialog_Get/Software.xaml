@@ -1,0 +1,115 @@
+﻿<Controls:MetroWindow x:Class="Admin.Dialog_Get.Software"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                     xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"           
+                      xmlns:System="clr-namespace:System;assembly=mscorlib"
+                      ResizeMode="NoResize" 
+                      WindowStyle="None"  
+                      WindowStartupLocation="CenterScreen" 
+                      ShowMaxRestoreButton="False" TitleForeground="#999988"
+                      Title="Software"
+                      Height="500"
+                      Width="630" Closing="MetroWindow_Closing">
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TabControl Grid.ColumnSpan="2" >
+            <TabItem Name="tab_Setting" Header="설치여부" HorizontalAlignment="Left" Width="70" IsSelected="True">
+                <Canvas>
+                    <ListView Name="lvw1" HorizontalAlignment="Center" VerticalAlignment="Top"  ItemsSource="{Binding}" Width="610" Height="330" SelectionChanged="lvw1_SelectionChanged" Canvas.Left="10" Canvas.Top="10" FontWeight="Bold">
+                      
+                        <ListView.Resources>
+                        <DataTemplate x:Key="Templ">
+                            <TextBlock HorizontalAlignment="Center" Text="{Binding}"/>
+                        </DataTemplate>
+                        </ListView.Resources>
+                        <ListView.ItemContainerStyle>
+                            <Style TargetType="ListViewItem">
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            </Style>
+                        </ListView.ItemContainerStyle>
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn HeaderTemplate="{StaticResource Templ}" Header="번호" Width="150" DisplayMemberBinding="{Binding idx}"/>
+                                <GridViewColumn HeaderTemplate="{StaticResource Templ}" Header="파일명" Width="450" DisplayMemberBinding="{Binding SOFTWARENAME}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <Label Content="파일이름 : " Foreground="White" Canvas.Left="195" Canvas.Top="345"/>
+                    <TextBox Name="file_name1" Height="23" TextWrapping="Wrap" Canvas.Left="269" Canvas.Top="348" Width="351"/>
+                    <Button Content="추가" Canvas.Left="269" Canvas.Top="382" Width="96" Height="24" Click="Button_Click"/>
+                    <Button Content="삭제" Canvas.Left="380" Canvas.Top="382" Width="96" Height="24" Click="Button_Click_1"/>
+                    <Button Content="검사" Height="24" Canvas.Left="524" Canvas.Top="382" Width="96" Click="Button_Click_2" />
+                </Canvas>
+            </TabItem>
+            <TabItem Name="often" Header="사용순위" HorizontalAlignment="Left" Width="70" IsSelected="False">
+                <Canvas>
+                    <ListView Name="lvw2" HorizontalAlignment="Left" VerticalAlignment="Top"  FontWeight="Bold" Canvas.Left="10" Canvas.Top="10" ItemsSource="{Binding}" Width="610" Height="330" SelectionChanged="lvw2_SelectionChanged">
+                      
+                        <ListView.Resources>
+                            <DataTemplate x:Key="Templ">
+                                <TextBlock HorizontalAlignment="Center" Text="{Binding}"/>
+                            </DataTemplate>
+                        </ListView.Resources>
+                        <ListView.ItemContainerStyle>
+                            <Style TargetType="ListViewItem">
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            </Style>
+                        </ListView.ItemContainerStyle>
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn HeaderTemplate="{StaticResource Templ}" Header="번호" Width="100">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock Text="{Binding Path=idx}" TextAlignment="Center"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn HeaderTemplate="{StaticResource Templ}" Header="파일명" Width="300" DisplayMemberBinding="{Binding SOFTWARENAME}"/>
+                                <GridViewColumn HeaderTemplate="{StaticResource Templ}" Header="사용 빈도" Width="200" DisplayMemberBinding="{Binding SOFTWARETIME}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <Label Content="파일이름 : " Foreground="White" Canvas.Left="245" Canvas.Top="350"/>
+                    <TextBox Name="file_name2" Height="23" TextWrapping="Wrap" Canvas.Left="319" Canvas.Top="353" Width="301"/>
+                    <Button Content="추가" Canvas.Left="389" Canvas.Top="389" Width="96" Height="24" Click="Button_Click_5"/>
+                    <Button Content="삭제" Canvas.Left="524" Canvas.Top="389" Width="96" Height="24" Click="Button_Click_6"/>
+                </Canvas>
+
+            </TabItem>
+            <TabItem Name="tab_monitoring" Header="작동 여부" HorizontalAlignment="Left" Width="74" IsSelected="False">
+                <Canvas>
+
+                    <TextBox Text="검색할 파일명을 입력하세요." Name="file_name3" Height="23" TextWrapping="Wrap" Canvas.Left="154" Canvas.Top="257" Width="351" GotMouseCapture="file_name3_GotMouseCapture"  />
+                    <Button Content="검사" Height="24" Canvas.Left="409" Canvas.Top="308" Width="96" Click="Button_Click_3"/>
+                    <TextBlock Name="check_result" Text="" TextWrapping="Wrap" Foreground="White" Canvas.Left="176" Canvas.Top="204" />
+                </Canvas>
+            </TabItem>
+
+            <TabItem Name="tab_Control" Header="불필요설치여부/강제삭제" HorizontalAlignment="Left" Width="158" IsSelected="False">
+                <Canvas>
+                    <ListView Name="lvw4" HorizontalAlignment="Left" VerticalAlignment="Top"  FontWeight="Bold" ItemsSource="{Binding}" Width="610" Height="332" Canvas.Left="10" Canvas.Top="10" SelectionChanged="lvw4_SelectionChanged">
+                        <ListView.ItemContainerStyle>
+                            <Style TargetType="ListViewItem">
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            </Style>
+                        </ListView.ItemContainerStyle>
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="번호" Width="150" DisplayMemberBinding="{Binding idx}"/>
+                                <GridViewColumn Header="파일명" Width="450" DisplayMemberBinding="{Binding SOFTWARENAME}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <Label Content="파일이름 : " Foreground="White" Canvas.Left="180" Canvas.Top="347"/>
+                    <TextBox Name="file_name4" Height="23" TextWrapping="Wrap" Canvas.Left="269" Canvas.Top="350" Width="351"/>
+
+                    <Button Content="삭제" Canvas.Left="524" Canvas.Top="389" Height="24" Width="96" Click="Button_Click_4"/>
+                </Canvas>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Controls:MetroWindow>
