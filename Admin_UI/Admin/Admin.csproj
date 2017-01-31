@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{95814DFF-ACF7-4254-BFF2-00EB1EA6F929}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Admin</RootNamespace>
+    <AssemblyName>Admin</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MahApps.Metro">
+      <HintPath>..\..\..\..\..\Downloads\source (1)\source\lib\MahApps.Metro.dll</HintPath>
+    </Reference>
+    <Reference Include="Selen.Wpf.SystemStyles">
+      <HintPath>..\..\..\..\..\Downloads\demo\demo\Selen.Wpf.SystemStyles.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Downloads\source (1)\source\lib\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Client\CClient.cs" />
+    <Compile Include="Dialog_Get\AddFloor.xaml.cs">
+      <DependentUpon>AddFloor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog_Get\AddPC.xaml.cs">
+      <DependentUpon>AddPC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog_Get\AddRoom.xaml.cs">
+      <DependentUpon>AddRoom.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog_Get\DeviceStatus.xaml.cs">
+      <DependentUpon>DeviceStatus.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog_Get\LogInfo.xaml.cs">
+      <DependentUpon>LogInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog_Get\PcTimer.xaml.cs">
+      <DependentUpon>PcTimer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog_Get\PcTimerDel.xaml.cs">
+      <DependentUpon>PcTimerDel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog_Get\PcTimerSelectDel.xaml.cs">
+      <DependentUpon>PcTimerSelectDel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog_Get\RemoteControl.xaml.cs">
+      <DependentUpon>RemoteControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog_Get\Software.xaml.cs">
+      <DependentUpon>Software.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog_Get\WindowCreate.xaml.cs">
+      <DependentUpon>WindowCreate.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Type\CType.cs" />
+    <Compile Include="UserControls\computer.xaml.cs">
+      <DependentUpon>computer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DeviceChoice.xaml.cs">
+      <DependentUpon>DeviceChoice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Floor_Control.xaml.cs">
+      <DependentUpon>Floor_Control.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\main_Control.xaml.cs">
+      <DependentUpon>main_Control.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Room_Control.xaml.cs">
+      <DependentUpon>Room_Control.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\WindowAccount.xaml.cs">
+      <DependentUpon>WindowAccount.xaml</DependentUpon>
+    </Compile>
+    <Page Include="ButtonStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ComboBoxStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="DataGridStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Dialog_Get\AddFloor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialog_Get\AddPC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialog_Get\AddRoom.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialog_Get\DeviceStatus.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialog_Get\LogInfo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialog_Get\PcTimer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialog_Get\PcTimerDel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialog_Get\PcTimerSelectDel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialog_Get\RemoteControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialog_Get\Software.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialog_Get\WindowCreate.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GroupBoxStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ListBoxStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="NewFolder1\Class1.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="MenuStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MetroWindowResources.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ScrollBarStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Styles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="TabControlStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="TextBoxStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UserControls\computer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\DeviceChoice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\Floor_Control.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\main_Control.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\Room_Control.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\Window1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\WindowAccount.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WindowStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="UserControls\re\class\none\ClroomOff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="UserControls\re\class\max\ClroomOn_Three.png" />
+    <Resource Include="UserControls\re\class\max\ClroomOn_Three1.png" />
+    <Resource Include="UserControls\re\class\max\ClroomOn_Three2.png" />
+    <Resource Include="UserControls\re\class\max\ClroomOn_Three3.png" />
+    <Resource Include="UserControls\re\class\max\ClroomOn_Three4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="UserControls\re\class\mid\ClroomOn_Two.png" />
+    <Resource Include="UserControls\re\class\mid\ClroomOn_Two1.png" />
+    <Resource Include="UserControls\re\class\mid\ClroomOn_Two2.png" />
+    <Resource Include="UserControls\re\class\mid\ClroomOn_Two3.png" />
+    <Resource Include="UserControls\re\class\mid\ClroomOn_Two4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="UserControls\re\class\min\ClroomOn_One.png" />
+    <Resource Include="UserControls\re\class\min\ClroomOn_One1.png" />
+    <Resource Include="UserControls\re\class\min\ClroomOn_One2.png" />
+    <Resource Include="UserControls\re\class\min\ClroomOn_One3.png" />
+    <Resource Include="UserControls\re\class\min\ClroomOn_One4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="UserControls\re\progressbar\ProgressBar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="UserControls\re\pc\PcOff.png" />
+    <Resource Include="UserControls\re\pc\PcOn_1.png" />
+    <Resource Include="UserControls\re\pc\PcOn_2.png" />
+    <Resource Include="UserControls\re\pc\PcOn_3.png" />
+    <Resource Include="UserControls\re\pc\PcOn_4.png" />
+    <Resource Include="UserControls\re\pc\PcOn_sig.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_timer\pc_account_add_1.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_timer\pc_account_add_2.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_timer\pc_account_add_3.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_timer\pc_account_add_4.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_timer\pc_account_add_5.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_timer\pc_account_add_6.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_timer\pc_account_add_7.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_timer\pc_account_add_8.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_timer\pc_account_add_9.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_\pc_account_add_1.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_\pc_account_add_2.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_\pc_account_add_3.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_\pc_account_add_4.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_\pc_account_add_5.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_\pc_account_add_6.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_\pc_account_add_7.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_\pc_account_add_8.png" />
+    <Resource Include="UserControls\re\pc\pc_account_add\pc_account_add_\pc_account_add_9.png" />
+    <Resource Include="UserControls\re\pc\pc_appointment\pc_appointment_timer\pc_appointment_1.png" />
+    <Resource Include="UserControls\re\pc\pc_appointment\pc_appointment_timer\pc_appointment_2.png" />
+    <Resource Include="UserControls\re\pc\pc_appointment\pc_appointment_timer\pc_appointment_3.png" />
+    <Resource Include="UserControls\re\pc\pc_appointment\pc_appointment_timer\pc_appointment_4.png" />
+    <Resource Include="UserControls\re\pc\pc_appointment\pc_appointment_\pc_appointment_1.png" />
+    <Resource Include="UserControls\re\pc\pc_appointment\pc_appointment_\pc_appointment_2.png" />
+    <Resource Include="UserControls\re\pc\pc_appointment\pc_appointment_\pc_appointment_3.png" />
+    <Resource Include="UserControls\re\pc\pc_appointment\pc_appointment_\pc_appointment_4.png" />
+    <Resource Include="UserControls\re\pc\pc_basic\pc_basic_timer\pc_basic_1.png" />
+    <Resource Include="UserControls\re\pc\pc_basic\pc_basic_timer\pc_basic_2.png" />
+    <Resource Include="UserControls\re\pc\pc_basic\pc_basic_timer\pc_basic_3.png" />
+    <Resource Include="UserControls\re\pc\pc_basic\pc_basic_timer\pc_basic_4.png" />
+    <Resource Include="UserControls\re\pc\pc_basic\pc_basic_\pc_basic_1.png" />
+    <Resource Include="UserControls\re\pc\pc_basic\pc_basic_\pc_basic_2.png" />
+    <Resource Include="UserControls\re\pc\pc_basic\pc_basic_\pc_basic_3.png" />
+    <Resource Include="UserControls\re\pc\pc_basic\pc_basic_\pc_basic_4.png" />
+    <Resource Include="UserControls\re\pc\Pc_format.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_timer\pc_format_1.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_timer\pc_format_2.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_timer\pc_format_3.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_timer\pc_format_4.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_timer\pc_format_5.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_timer\pc_format_6.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_timer\pc_format_7.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_timer\pc_format_8.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_\pc_format_1.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_\pc_format_2.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_\pc_format_3.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_\pc_format_4.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_\pc_format_5.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_\pc_format_6.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_\pc_format_7.png" />
+    <Resource Include="UserControls\re\pc\pc_format\pc_format_\pc_format_8.png" />
+    <Resource Include="UserControls\re\pc\pc_off\pc_off_not_file.png" />
+    <Resource Include="UserControls\re\pc\pc_off\pc_off_timer\pc_off_not_file.png" />
+    <Resource Include="UserControls\re\pc\pc_on\pc_on_1.png" />
+    <Resource Include="UserControls\re\pc\pc_on\pc_on_2.png" />
+    <Resource Include="UserControls\re\pc\pc_on\pc_on_3.png" />
+    <Resource Include="UserControls\re\pc\pc_on\pc_on_4.png" />
+    <Resource Include="UserControls\re\pc\pc_on\pc_on_5.png" />
+    <Resource Include="UserControls\re\pc\pc_on\pc_on_6.png" />
+    <Resource Include="UserControls\re\pc\pc_on\pc_on_7.png" />
+    <Resource Include="UserControls\re\pc\pc_on\pc_on_8.png" />
+    <Resource Include="UserControls\re\pc\pc_on\pc_on_9.png" />
+    <Resource Include="UserControls\re\pc\Pc_on_img.png" />
+    <Resource Include="UserControls\re\pc\Pc_on_img_sig.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

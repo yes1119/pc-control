@@ -1,0 +1,199 @@
+﻿<Controls:MetroWindow x:Class="Admin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+                      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+                    Name="TitleWindow"  Title="MainWindow"       
+              xmlns:System="clr-namespace:System;assembly=mscorlib" 
+      Height="950" Width="1200" WindowStartupLocation="CenterScreen" TitleForeground="#999988" KeyDown="MetroWindow_KeyDown_1" KeyUp="MetroWindow_KeyUp_1" Closed="TitleWindow_Closed" >
+    <Window.Resources>
+        <Style x:Key="GridSplitterPreviewStyle">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Rectangle Fill="#80000000"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="HorizontalGridSplitterStyle" TargetType="{x:Type GridSplitter}">
+            <Setter Property="Background" Value="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"/>
+            <Setter Property="PreviewStyle" Value="{StaticResource GridSplitterPreviewStyle}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+
+                    <ControlTemplate TargetType="{x:Type GridSplitter}">
+                        <Border Opacity="0.01" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="VerticalGridSplitterStyle" TargetType="{x:Type GridSplitter}">
+            <Setter Property="Background" Value="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"/>
+            <Setter Property="PreviewStyle" Value="{StaticResource GridSplitterPreviewStyle}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type GridSplitter}">
+                        <Border Opacity="0.01" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Window.Resources>
+    <DockPanel ClipToBounds="True">
+        <Menu DockPanel.Dock="Top" SnapsToDevicePixels="True" Margin="2,0,0,0" Height="23" RenderTransformOrigin="0.5,0.5">
+            <Menu.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Menu.RenderTransform>
+            <MenuItem Header="메뉴">
+                <MenuItem Header="로그 정보" Click="MenuItem_LogInfo_Click"></MenuItem>
+                <MenuItem Header="프로그램 종료" Click="MenuItem_Exit_Click" ></MenuItem>
+            </MenuItem>
+        </Menu>
+
+        <Grid Name="gridCheck" d:IsLocked="True">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100*" />
+                <ColumnDefinition Width="30*" />
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="80*" />
+                    <RowDefinition Height="30*" />
+                </Grid.RowDefinitions>
+                <TabControl Margin="0,0,0,10" Grid.Row="0"  Name="tab" IsSynchronizedWithCurrentItem="True"  SelectionChanged="tab_SelectionChanged_1"  >
+                    <TabItem Name="main_Tab" Width="33"></TabItem>
+                </TabControl>
+                <TabControl  Grid.Row="1" >
+                    <TabItem Name="tab_Log" HorizontalAlignment="Left" Width="66" Background="#FF007ACC">
+                        <UserControl >
+                            <ListView Name="lvw" HorizontalAlignment="Left" VerticalAlignment="Top"  ItemsSource="{Binding}">
+                                <ListView.View>
+                                    <GridView>
+                                        <GridViewColumn Header="LOG_TYPE" DisplayMemberBinding="{Binding LOG_TYPE}" Width="120"></GridViewColumn>
+                                        <GridViewColumn Header="PC IP" DisplayMemberBinding="{Binding PC_IP}"  Width="180"></GridViewColumn>
+                                        <GridViewColumn Header="LOG_NAME" DisplayMemberBinding="{Binding LOG_NAME}" Width="260"></GridViewColumn>
+                                        <GridViewColumn Header="LOG" DisplayMemberBinding="{Binding LOG_LOG}" Width="590"></GridViewColumn>
+                                        <GridViewColumn Header="DETECTION_DAY" DisplayMemberBinding="{Binding LOG_DETECTION_DAY}" Width="160"></GridViewColumn>
+                                        <GridViewColumn Header="DETECTION_TIME" DisplayMemberBinding="{Binding LOG_DETECTION_TIME}" Width="160"></GridViewColumn>
+                                    </GridView>
+                                </ListView.View>
+                            </ListView>
+                        </UserControl>
+                    </TabItem>
+                </TabControl>
+                <GridSplitter Name="gridSplitter1_1" Height="10" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Style="{DynamicResource HorizontalGridSplitterStyle}" d:IsLocked="True" />
+            </Grid>
+
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="46*" />
+                    <RowDefinition Height="30*" />
+                </Grid.RowDefinitions>
+                <TabControl Margin="10,0,0,10" Grid.Row="0"  SizeChanged="TabControl_SizeChanged_1">
+                    <TabItem Name="tab_Total" HorizontalAlignment="Left" Width="50" Background="#FF007ACC">
+                        <UserControl>
+                            <ScrollViewer>
+                                <StackPanel Name="stackpanel"/>
+                            </ScrollViewer>
+                        </UserControl>
+                    </TabItem>
+                </TabControl>
+                <TabControl Margin="10,0,0,0"  Grid.Row="1"  IsManipulationEnabled="True" >
+                    <TabItem Name="tab_Attribute" HorizontalAlignment="Left" Width="85"  IsSelected="True">
+                        <UserControl>
+                            <ScrollViewer>
+                                <WrapPanel Name="attribute" Orientation="Vertical">
+
+                                </WrapPanel>
+                            </ScrollViewer>
+                        </UserControl>
+
+                    </TabItem>
+
+                    <TabItem Name="tab_Hardware" HorizontalAlignment="Left" Width="105" IsSelected="False" >
+                        <UserControl>
+                            <ScrollViewer>
+                                <WrapPanel Name="attribute1" Orientation="Vertical">
+                                    <ListView Name="lstview" HorizontalAlignment="Left" VerticalAlignment="Top"  ItemsSource="{Binding}">
+                                        <ListView.View>
+                                            <GridView>
+                                                <GridViewColumn Header="IP" DisplayMemberBinding="{Binding pIP}"  Width="90"></GridViewColumn>
+                                                <GridViewColumn Header="키보드" DisplayMemberBinding="{Binding keyboard}" Width="65"></GridViewColumn>
+                                                <GridViewColumn Header="마우스" DisplayMemberBinding="{Binding mouse}" Width="65"></GridViewColumn>
+                                                <GridViewColumn Header="모니터" DisplayMemberBinding="{Binding moniter}" Width="65"></GridViewColumn>
+                                                <GridViewColumn Header="최근시간" DisplayMemberBinding="{Binding time}" Width="115"></GridViewColumn>
+                                            </GridView>
+                                        </ListView.View>
+                                    </ListView>
+                                </WrapPanel>
+                            </ScrollViewer>
+                        </UserControl>
+
+                    </TabItem>
+
+                    <TabItem Name="tab_software" HorizontalAlignment="Left" Width="115"  IsSelected="False">
+                        <UserControl>
+                            <ScrollViewer>
+                                <WrapPanel Name="attribute2" Orientation="Vertical">
+                                    <ListView Name="lstview2" HorizontalAlignment="Left" VerticalAlignment="Top"  ItemsSource="{Binding}">
+                                        <ListView.View>
+                                            <GridView>
+                                                <GridViewColumn Header="IP" DisplayMemberBinding="{Binding pIP}"  Width="107"></GridViewColumn>
+                                                <GridViewColumn Header="소프트웨어" DisplayMemberBinding="{Binding software}" Width="97"></GridViewColumn>
+                                                <GridViewColumn Header="OFFER" DisplayMemberBinding="{Binding Work}" Width="97"></GridViewColumn>
+                                                <GridViewColumn Header="최근시간" DisplayMemberBinding="{Binding time}" Width="100"></GridViewColumn>
+                                            </GridView>
+                                        </ListView.View>
+                                    </ListView>
+                                </WrapPanel>
+                            </ScrollViewer>
+                        </UserControl>
+
+                    </TabItem>
+                    <TabItem Name="tab_Windowaccount" HorizontalAlignment="Left" Width="105" IsSelected="False" >
+                        <UserControl>
+                            <ScrollViewer>
+                                <WrapPanel Name="attribute3" Orientation="Vertical">
+                                    <ListView Name="lstview3" HorizontalAlignment="Left" VerticalAlignment="Top"  ItemsSource="{Binding}">
+                                        <ListView.View>
+                                            <GridView>
+                                                <GridViewColumn Header="IP" DisplayMemberBinding="{Binding Win_ip}"  Width="110"></GridViewColumn>
+                                                <GridViewColumn Header="ACCOUNT" DisplayMemberBinding="{Binding Win_account}" Width="95"></GridViewColumn>
+                                                <GridViewColumn Header="PW" DisplayMemberBinding="{Binding Win_PW}" Width="80"></GridViewColumn>
+                                                <GridViewColumn Header="상태" DisplayMemberBinding="{Binding Win_state}" Width="115"></GridViewColumn>
+                                            </GridView>
+                                        </ListView.View>
+                                    </ListView>
+                                </WrapPanel>
+                            </ScrollViewer>
+                        </UserControl>
+
+                    </TabItem>
+
+
+                </TabControl>
+
+                <GridSplitter Name="gridSplitter1" Height="10" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Style="{DynamicResource HorizontalGridSplitterStyle}" d:IsLocked="True" />
+            </Grid>
+
+
+            <GridSplitter Name="gridSplitter2" Grid.Column="1" Width="10" HorizontalAlignment="Left" Margin="0,0,0,10" Style="{DynamicResource VerticalGridSplitterStyle}" d:IsLocked="True"  />
+
+        </Grid>
+
+
+
+    </DockPanel>
+</Controls:MetroWindow>
