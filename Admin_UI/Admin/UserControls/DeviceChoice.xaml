@@ -1,0 +1,25 @@
+﻿<Controls:MetroWindow x:Class="Admin.UserControls.DeviceChoice"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+       Title="MainWindow"         
+        ResizeMode="NoResize" 
+        WindowStyle="None"  WindowStartupLocation="CenterScreen"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"           
+    xmlns:System="clr-namespace:System;assembly=mscorlib"
+    Height="300" Width="350" ShowMaxRestoreButton="False" TitleForeground="#999988">
+    <Grid Name="grid">
+        <GroupBox Name="GB" Header="하드웨어" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="172" Width="322">
+            <ScrollViewer Name="sv" HorizontalAlignment="Left" Height="149" Width="322">
+                <DockPanel Name="aw" VerticalAlignment="Top" HorizontalAlignment="Left">
+                    <StackPanel Name="f" HorizontalAlignment="Left">
+                        <CheckBox Name="keyborad" Content="키보드" Margin="10" Foreground="White" VerticalAlignment="Top" DockPanel.Dock="Top"/>
+                        <CheckBox Name="mouse" Content="마우스" Margin="10" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Top" DockPanel.Dock="Top"/>
+                        <CheckBox Name="monitor" Content="모니터" Margin="10" Foreground="White" VerticalAlignment="Top" DockPanel.Dock="Top"/>
+                    </StackPanel>
+                </DockPanel>
+            </ScrollViewer>
+        </GroupBox>
+        <Button Content="상태점검" HorizontalAlignment="Left" Margin="236,187,0,0" VerticalAlignment="Top" Width="96" Click="Button_Click_2" Height="64"/>
+
+    </Grid>
+</Controls:MetroWindow>
